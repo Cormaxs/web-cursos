@@ -4,6 +4,9 @@ import Menu from './Menu';
 import Footer from './Footer';
 const Layout = ({ children }) => {
   return (
+    <>
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5933305559914134"
+     crossorigin="anonymous"></script>
     <div>
       <Menu />
       <main>
@@ -11,7 +14,7 @@ const Layout = ({ children }) => {
         {children}
       </main>
     <Footer/>
-    </div>
+    </div></>
   );
 };
 
