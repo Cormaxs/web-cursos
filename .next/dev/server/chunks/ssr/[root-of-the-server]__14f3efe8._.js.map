@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Desktop/proyectos/cursos/web-cursos/styles/Home.module.css [ssr] (css module)"],"sourcesContent":["__turbopack_context__.v({\n  \"ctas\": \"Home-module__TATXLq__ctas\",\n  \"intro\": \"Home-module__TATXLq__intro\",\n  \"logo\": \"Home-module__TATXLq__logo\",\n  \"main\": \"Home-module__TATXLq__main\",\n  \"page\": \"Home-module__TATXLq__page\",\n  \"primary\": \"Home-module__TATXLq__primary\",\n  \"secondary\": \"Home-module__TATXLq__secondary\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA"}},
-    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tomas/Desktop/proyectos/cursos/web-cursos/pages/index.js"],"sourcesContent":["import Head from \"next/head\";\nimport Image from \"next/image\";\nimport { Geist, Geist_Mono } from \"next/font/google\";\nimport styles from \"@/styles/Home.module.css\";\nimport React from 'react';\n\nconst home = () => {\nreturn (\n  <h1>\n    Página Principal\n  </h1>\n)\n}\n\nexport default home;"],"names":[],"mappings":";;;;;AAAA;AACA;AAEA;AACA;;;;;;AAEA,MAAM,OAAO;IACb,qBACE,qKAAC;kBAAG;;;;;;AAIN;uCAEe"}}]
-}

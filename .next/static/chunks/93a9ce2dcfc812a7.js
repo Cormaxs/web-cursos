@@ -1,7 +1,0 @@
-__turbopack_load_page_chunks__("/cursos/see-course", [
-  "static/chunks/9663ca38aa23a992.js",
-  "static/chunks/45842323ba9cc606.js",
-  "static/chunks/8f096e7a8613e0cd.js",
-  "static/chunks/82a0819bebe1ac9d.js",
-  "static/chunks/turbopack-f66ca6de8075a6ca.js"
-])

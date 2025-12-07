@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Desktop/proyectos/cursos/web-cursos/styles/whatch-courses.css"],"sourcesContent":[".whatch-course{\r\n    text-align: left;\r\n  \r\n   display: flex;\r\n   border-radius: 16px;\r\n}\r\n.whatch-course-son{\r\n    width: 100%;\r\n    padding: 1rem;\r\n}\r\n.whatch-course-back{\r\n\r\n   color: var(--primary-color);\r\n}\r\n.whatch-course-title{\r\n    text-align: center;\r\n    margin: .5rem;\r\n} \r\n\r\n.whatch-course-modulo{\r\n    text-align: center;\r\n}\r\n\r\n.whatch-course-iframe{\r\n    display: flex;\r\n    width: 100%;\r\n}\r\n\r\n.iframe{\r\nwidth: 100%;\r\nheight: 300px;\r\n}"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;AAIA;;;;AAIA;;;;;AAKA;;;;AAIA;;;;;AAKA"}}]
-}
