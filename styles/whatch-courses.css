@@ -1,0 +1,32 @@
+.whatch-course{
+    text-align: left;
+  
+   display: flex;
+   border-radius: 16px;
+}
+.whatch-course-son{
+    width: 100%;
+    padding: 1rem;
+}
+.whatch-course-back{
+
+   color: var(--primary-color);
+}
+.whatch-course-title{
+    text-align: center;
+    margin: .5rem;
+} 
+
+.whatch-course-modulo{
+    text-align: center;
+}
+
+.whatch-course-iframe{
+    display: flex;
+    width: 100%;
+}
+
+.iframe{
+width: 100%;
+height: 300px;
+}

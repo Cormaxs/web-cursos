@@ -1,0 +1,140 @@
+[00:00:12.018] Server  LOG      ✓ Ready in 7.4s
+[00:01:45.583] Server  LOG      ✓ Compiled in 24ms
+[00:02:07.967] Server  LOG      ✓ Compiled in 19ms
+[00:02:13.027] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:02:13.027] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:04:06.665] Server  LOG      ✓ Compiled in 20ms
+[00:04:11.071] Server  LOG      ✓ Compiled in 19ms
+[00:04:19.847] Server  LOG      ✓ Compiled in 19ms
+[00:04:36.069] Server  LOG      ✓ Compiled in 19ms
+[00:04:49.190] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:04:49.190] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:45.184] Server  LOG      ✓ Compiled in 31ms
+[00:05:46.222] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:46.222] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:46.222] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:46.222] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:46.222] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:46.222] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:50.971] Server  LOG      ✓ Compiled in 18ms
+[00:05:51.214] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:51.214] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:51.214] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:05:51.214] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:06:01.690] Server  LOG      ✓ Compiled in 25ms
+[00:06:02.216] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:06:02.216] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:06:02.216] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:06:02.216] Browser LOG     Video URL from syllabus: yB4n_K7dZV8
+[00:06:07.133] Browser LOG     Video URL from syllabus: YmZE1HXjpd4
+[00:06:07.134] Browser LOG     Video URL from syllabus: YmZE1HXjpd4
+[00:06:23.782] Server  LOG      ✓ Compiled in 18ms
+[00:06:40.081] Server  LOG      ✓ Compiled in 20ms
+[00:06:48.470] Server  LOG      ✓ Compiled in 17ms
+[00:07:14.544] Server  LOG      ✓ Compiled in 35ms
+[00:07:23.850] Server  LOG      ✓ Compiled in 18ms
+[00:07:33.140] Server  LOG      ✓ Compiled in 17ms
+[00:07:37.402] Server  LOG      ✓ Compiled in 16ms
+[00:07:41.430] Server  LOG      ✓ Compiled in 17ms
+[00:08:01.090] Server  LOG      ✓ Compiled in 19ms
+[00:08:09.078] Server  LOG      ✓ Compiled in 17ms
+[00:08:20.220] Server  LOG      ✓ Compiled in 18ms
+[00:08:32.476] Server  LOG      ✓ Compiled in 17ms
+[00:08:47.499] Server  LOG      ✓ Compiled in 17ms
+[00:08:51.909] Server  LOG      ✓ Compiled in 17ms
+[00:09:12.337] Server  LOG      ✓ Compiled in 17ms
+[00:09:31.571] Server  LOG      ✓ Compiled in 18ms
+[00:10:12.511] Server  LOG      ✓ Compiled in 18ms
+[00:11:33.345] Server  LOG      ✓ Compiled in 18ms
+[00:11:35.985] Server  LOG      ✓ Compiled in 16ms
+[00:12:02.209] Browser LOG     Video URL from syllabus: YmZE1HXjpd4
+[00:12:02.209] Browser LOG     Video URL from syllabus: YmZE1HXjpd4
+[00:12:06.307] Browser LOG     Video URL from syllabus: ev3Yxva4wI4
+[00:12:06.307] Browser LOG     Video URL from syllabus: ev3Yxva4wI4
+[00:12:44.956] Server  LOG      ✓ Compiled in 19ms
+[00:13:01.772] Server  LOG      ✓ Compiled in 28ms
+[00:13:26.095] Browser LOG     Video URL from syllabus: ev3Yxva4wI4
+[00:13:26.095] Browser LOG     Video URL from syllabus: ev3Yxva4wI4
+[00:19:40.249] Server  LOG      ✓ Compiled in 23ms
+[00:19:41.230] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:19:46.133] Server  LOG      ✓ Compiled in 19ms
+[00:19:50.297] Server  LOG      ✓ Compiled in 18ms
+[00:20:12.694] Server  LOG      ✓ Compiled in 19ms
+[00:20:16.300] Server  LOG      ✓ Compiled in 18ms
+[00:20:21.981] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:20:22.336] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:20:27.253] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:20:35.981] Server  LOG      ✓ Compiled in 17ms
+[00:20:39.420] Server  LOG      ✓ Compiled in 20ms
+[00:20:47.582] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:20:50.969] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:21:07.023] Server  LOG      ✓ Compiled in 17ms
+[00:21:24.230] Server  LOG      ✓ Compiled in 17ms
+[00:22:33.176] Server  LOG      ✓ Compiled in 17ms
+[00:22:34.215] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:22:37.222] Server  LOG      ✓ Compiled in 18ms
+[00:23:13.475] Server  LOG      ✓ Compiled in 17ms
+[00:23:21.531] Server  LOG      ✓ Compiled in 25ms
+[00:23:25.142] Server  LOG      ✓ Compiled in 18ms
+[00:23:45.092] Server  LOG      ✓ Compiled in 20ms
+[00:23:47.498] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:23:47.499] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:23:47.856] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:23:47.856] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:23:55.365] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:23:57.770] Browser LOG     Video URL from syllabus: 
+[00:23:57.770] Browser LOG     Video URL from syllabus: 
+[00:24:21.121] Server  LOG      ✓ Compiled in 33ms
+[00:24:21.225] Browser LOG     Video URL from syllabus: 
+[00:24:21.225] Browser LOG     Video URL from syllabus: 
+[00:24:21.226] Browser LOG     Video URL from syllabus: 
+[00:24:21.226] Browser LOG     Video URL from syllabus: 
+[00:24:24.518] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:24:24.518] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:24:44.706] Server  LOG      ✓ Compiled in 18ms
+[00:24:44.767] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:24:44.768] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:24:50.372] Server  LOG      ✓ Compiled in 16ms
+[00:24:50.466] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:24:50.466] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:09.295] Server  LOG      ✓ Compiled in 17ms
+[00:25:10.219] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:10.219] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:28.241] Server  LOG      ✓ Compiled in 16ms
+[00:25:29.225] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:29.225] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:32.373] Server  LOG      ✓ Compiled in 16ms
+[00:25:33.217] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:33.217] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:47.755] Server  LOG      ✓ Compiled in 19ms
+[00:25:48.221] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:25:48.221] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:26:54.464] Server  LOG      ✓ Compiled in 19ms
+[00:26:55.217] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:26:55.217] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:27:01.014] Server  LOG      ✓ Compiled in 16ms
+[00:27:01.219] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:27:01.219] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:27:05.702] Server  LOG      ✓ Compiled in 16ms
+[00:27:06.189] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:27:06.189] Browser LOG     Video URL from syllabus: fUgxxhI_bvc
+[00:27:07.589] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:07.589] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:07.589] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:07.589] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:30.125] Server  LOG      ✓ Compiled in 17ms
+[00:28:01.616] Server  LOG      ✓ Compiled in 17ms
+[00:29:14.158] Server  LOG      ✓ Compiled in 21ms
+[00:29:14.222] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:26.174] Server  LOG      ✓ Compiled in 18ms
+[00:29:27.226] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:33.572] Server  LOG      ✓ Compiled in 18ms
+[00:29:38.785] Server  LOG      ✓ Compiled in 17ms
+[00:29:47.874] Server  LOG      ✓ Compiled in 17ms
+[00:30:01.450] Server  LOG      ✓ Compiled in 21ms
+[00:30:08.768] Server  LOG      ✓ Compiled in 18ms
+[00:31:45.597] Server  LOG      ✓ Compiled in 95ms
+[00:33:07.974] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./Desktop/proyectos/cursos/web-cursos/pages/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:08.021] Server  LOG      ✓ Compiled in 18ms
+[00:33:15.641] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./Desktop/proyectos/cursos/web-cursos/pages/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:15.694] Server  LOG      ✓ Compiled in 19ms

@@ -1,0 +1,24 @@
+/* [project]/Desktop/proyectos/cursos/web-cursos/styles/index.css [client] (css) */
+h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2.5em;
+}
+
+p {
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+ol {
+  color: #444;
+  margin-left: 20px;
+}
+
+ol > li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=Desktop_proyectos_cursos_web-cursos_styles_index_css_65f1660e._.single.css.map*/

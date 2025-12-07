@@ -1,0 +1,80 @@
+
+*{
+  margin: 0; padding: 0; box-sizing: border-box;
+  font-family: var(--font-family);
+}
+
+:root{
+  --primary-color: #2d91fb;
+  --secondary-color: #6d28d2;
+  --background-color: #ffffff;
+  --background-hover: #f1f0f0;
+  --footer: #1e1e2f;
+  --text-color: #2a2b3f;
+  --font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: var(--text-color);
+}
+.wrapper{
+  position: relative;
+  max-width: 1200px;
+  min-height: 500px;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: var(--background-hover);
+    margin-top: 1rem; margin-bottom: 1rem;
+    border-radius: 16px;
+}
+
+
+/*menu*/
+
+nav{
+ display: flex;
+ width: 50%;
+ margin: auto;
+
+ justify-content: space-around;
+ height: 50px;
+ align-items: center;
+}
+
+
+/*footer*/
+footer{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  padding: 1rem;
+  background-color: var(--footer);
+  color: var(--background-color);
+  margin-top: 1rem; margin-bottom: 1rem;
+}
+
+/* Ajustes para móviles pequeños */
+@media (max-width: 480px) {
+  .container-items-courses {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+  
+  .item-courses {
+    max-width: 100%;
+  }
+  
+  .lista-item-courses {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+}
+
+
+
+
+
+
+
+

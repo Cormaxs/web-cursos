@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      // Si solo quieres mapear components, también puedes usar:
+      // "@/components/*": ["components/*"]
+    }
+  }
+}

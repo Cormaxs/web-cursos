@@ -1,0 +1,60 @@
+/* [project]/Desktop/proyectos/cursos/web-cursos/styles/globals.css [client] (css) */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: #2d91fb;
+  --secondary-color: #6d28d2;
+  --background-color: #fff;
+  --background-hover: #f1f0f0;
+  --text-color: #2a2b3f;
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+@media (max-width: 480px) {
+  .container-items-courses {
+    grid-template-columns: 1fr;
+    gap: .75rem;
+  }
+
+  .item-courses {
+    max-width: 100%;
+  }
+
+  .lista-item-courses {
+    flex-direction: column;
+    gap: .25rem;
+  }
+}
+
+.container-see-course {
+  background-color: red;
+  flex-direction: column;
+  display: flex;
+}
+
+.container-info-see-course {
+  background-color: green;
+}
+
+.container-info-see-course > h1 {
+  text-align: center;
+  margin-bottom: .5rem;
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+}
+
+/*# sourceMappingURL=Desktop_proyectos_cursos_web-cursos_styles_globals_20397ca0.css.map*/

@@ -1,0 +1,56 @@
+/* [project]/Desktop/proyectos/cursos/web-cursos/styles/see-courses.css [client] (css) */
+.container-see-course {
+  flex-direction: column;
+  display: flex;
+}
+
+.title-see-course {
+  margin: 1rem;
+}
+
+.container-info-see-course {
+  flex-flow: wrap;
+  justify-content: center;
+  padding-bottom: 1rem;
+  display: flex;
+}
+
+.container-info-see-course > div {
+  flex: 1;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.container-info-see-course > div > p {
+  margin: 1rem;
+}
+
+.image-see-course {
+  max-width: 100%;
+  height: 300px;
+  right: 10px;
+}
+
+.description-see-course {
+  width: 80%;
+}
+
+.subtitle-see-course {
+  margin: 1rem 0;
+  font-weight: bold;
+}
+
+.list-see-course {
+  text-align: left;
+}
+
+.list-item-see-course {
+  margin: 1rem 0;
+  list-style: none;
+}
+
+.list-link-see-course:hover {
+  color: var(--primary-color);
+}
+
+/*# sourceMappingURL=Desktop_proyectos_cursos_web-cursos_styles_see-courses_css_65f1660e._.single.css.map*/

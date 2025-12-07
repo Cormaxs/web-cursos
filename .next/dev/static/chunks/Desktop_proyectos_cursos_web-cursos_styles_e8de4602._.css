@@ -1,0 +1,132 @@
+/* [project]/Desktop/proyectos/cursos/web-cursos/styles/globals.css [client] (css) */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: #2d91fb;
+  --secondary-color: #6d28d2;
+  --background-color: #fff;
+  --background-hover: #f1f0f0;
+  --text-color: #2a2b3f;
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+@media (max-width: 480px) {
+  .container-items-courses {
+    grid-template-columns: 1fr;
+    gap: .75rem;
+  }
+
+  .item-courses {
+    max-width: 100%;
+  }
+
+  .lista-item-courses {
+    flex-direction: column;
+    gap: .25rem;
+  }
+}
+
+.container-see-course {
+  background-color: red;
+  flex-direction: column;
+  display: flex;
+}
+
+.container-info-see-course {
+  background-color: green;
+}
+
+.container-info-see-course > h1 {
+  text-align: center;
+  margin-bottom: .5rem;
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+}
+
+/* [project]/Desktop/proyectos/cursos/web-cursos/styles/all-courses.css [client] (css) */
+.container-items-courses {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: clamp(.75rem, 2vw, 1rem);
+  padding: clamp(.5rem, 2vw, 1rem);
+  display: grid;
+}
+
+.item-courses {
+  background-color: var(--background-color);
+  border: 1px solid #3b3b3b34;
+  border-radius: 12px;
+  flex-direction: column;
+  height: 100%;
+  transition: all .3s;
+  display: flex;
+}
+
+.item-courses:hover {
+  background-color: var(--background-hover);
+  box-shadow: 0 4px 8px #0003;
+}
+
+.image-item-courses {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 12px;
+  width: 100%;
+  padding: clamp(.25rem, 1vw, .5rem);
+}
+
+.textos-item-courses {
+  flex-direction: column;
+  flex: 1;
+  padding: .5rem;
+  display: flex;
+}
+
+.titulo-item-courses {
+  margin-bottom: .25rem;
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.autor-item-courses {
+  color: gray;
+  margin-bottom: .5rem;
+  font-size: clamp(.65rem, .9vw, .7rem);
+}
+
+.lista-item-courses {
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: auto;
+  padding-bottom: .5rem;
+  list-style: none;
+  display: flex;
+}
+
+.lista-item-courses > li {
+  font-size: clamp(.7rem, .9vw, .8rem);
+}
+
+.price-item-courses {
+  font-size: clamp(.9rem, 1.2vw, 1rem);
+  font-weight: bold;
+  font-family: var(--font-family);
+  color: var(--text-color);
+  margin-top: .5rem;
+}
+
+/*# sourceMappingURL=Desktop_proyectos_cursos_web-cursos_styles_e8de4602._.css.map*/

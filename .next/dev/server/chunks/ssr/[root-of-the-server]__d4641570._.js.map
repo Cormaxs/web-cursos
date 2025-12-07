@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tomas/Desktop/proyectos/cursos/web-cursos/pages/cursos/cursos.js"],"sourcesContent":["<h1>\r\n    titulo del curso\r\n</h1>"],"names":[],"mappings":";AAAA,QAAC;cAAG"}}]
+}
