@@ -6,10 +6,10 @@ export const courses = [
     {
         id: 1,
         nameCourse: "Node JS desde 0",
-        instructor: "midudev",
+        instructor: "Midudev",
         description: "Aprende todo lo que necesitas saber sobre Node.js. En esta Capítulo 1, conocerás realmente lo que es, cómo funciona, haremos ejercicios interactivos, veremos su sistema de módulos desde cero y muchas cosas más.",
         duration: "09:00",
-        price: "gratis",
+        price: "Gratis",
         image: "https://i.ytimg.com/vi/yB4n_K7dZV8/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbNQuli5K1FdkF7oWrN7ImPBsRlw",
         technologies: ["nodejs", "programacion", "express", "Web", "javascript"],
         rating: 4.5,
@@ -68,12 +68,12 @@ export const courses = [
     },
     {
         id: 2, 
-        nameCourse: "Curso COMPLETO de HTML GRATIS desde cero: SEO, semántica y más", 
+        nameCourse: "Curso COMPLETO de HTML  desde cero: SEO, semántica y más", 
         instructor: "Midudev",
         description: "¡Sumérgete en el emocionante mundo de la creación web! Aprende HTML desde cero en este curso completo y totalmente gratuito. ¡Prepárate para construir sitios web asombrosos y dar rienda suelta a tu creatividad en línea! No te lo pierdas.", 
         duration: "1:54:00",
-        price: "gratis", 
-        image: "", 
+        price: "Gratis", 
+        image: "https://i.ytimg.com/vi/3nYLTiY5skU/maxresdefault.jpg", 
         technologies: [], 
         rating: null, 
         students: "",
@@ -91,11 +91,11 @@ export const courses = [
     {
         id: 3, 
         nameCourse: "De Novato a Ninja: Aprende TypeScript - curso intensivo (#1)", 
-        instructor: "midudev",
+        instructor: "Midudev",
         description: "En este video, estaremos hablando sobre TypeScript para principiantes un pequeño curso intensivo. Esta es una guía completa y detallada para aprender TypeScript desde cero. Comenzando desde el principio, cubriremos los conceptos básicos de TypeScript, como qué es, cómo funciona y para qué se puede utilizar. Luego, pasaremos a aprender la sintaxis de TypeScript, que es esencial para cualquier desarrollador de TypeScript. A continuación, veremos ejercicios de TypeScript y elementos a tener en cuenta. Concluiremos analizando Arrays matrices y tuplas de TypeScript y uso común.", 
         duration: "1:42:00",
-        price: "gratis", 
-        image: "", 
+        price: "Gratis", 
+        image: "https://i.ytimg.com/vi/fUgxxhI_bvc/maxresdefault.jpg", 
         technologies: [], 
         rating: null, 
         students: "",
@@ -112,11 +112,11 @@ export const courses = [
     {
         id: 4, 
         nameCourse: "Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos", 
-        instructor: "midudev",
+        instructor: "Midudev",
         description: "", 
         duration: "1:39:29",
-        price: "gratis", 
-        image: "", 
+        price: "Gratis", 
+        image: "https://media2.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxo9p3zpa0a5p3nrehgr.png", 
         technologies: [], 
         rating: null, 
         students: "",
@@ -133,11 +133,11 @@ export const courses = [
     {
         id: 5, 
         nameCourse: "Curso Tailwind CSS 4 desde cero", 
-        instructor: "midudev",
+        instructor: "Midudev",
         description: "", 
         duration: "1:38:00",
-        price: "gratis", 
-        image: "", 
+        price: "Gratis", 
+        image: "https://i.ytimg.com/vi/R5EXap3vNDA/maxresdefault.jpg", 
         technologies: [], 
         rating: null, 
         students: "",
@@ -154,11 +154,11 @@ export const courses = [
     {
         id: 6, 
         nameCourse: "Curso COMPLETO de Python DESDE CERO para Principiantes 2025", 
-        instructor: "midudev",
+        instructor: "Midudev",
         description: "", 
         duration: "8:32:00",
-        price: "gratis", 
-        image: "", 
+        price: "Gratis", 
+        image: "https://i.ytimg.com/vi/TkN2i-_4N4g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4KNCc6PfYBHB1q-SefPVKJvEprA", 
         technologies: [], 
         rating: null, 
         students: "",
@@ -172,4 +172,69 @@ export const courses = [
             },
         ]
     },
+    {
+        id: 7, 
+        nameCourse: "Despliegue de Aplicaciones Web: Guía Completa para Principiantes", 
+        instructor: "Nodo tecnologico",
+        description: "", 
+        duration: "",
+        price: "Gratis", 
+        image: "https://clasesdeinformaticaweb.com/wp-content/uploads/2020/12/despliegue-aplicaciones-web.png.gif", 
+        technologies: [], 
+        rating: null, 
+        students: "",
+        syllabus: [
+            {
+                id: 1,
+                title: "clase 1", 
+                description: "",
+                duration: "02:05:00", 
+                videoUrl: "YjPaqzu01H8" 
+            },
+            {
+                id: 2,
+                title: "clase 2", 
+                description: "",
+                duration: "01:41:00", 
+                videoUrl: "sIabWB4FFh8" 
+            },
+        ]
+    },
+    {
+        id: 8, 
+        nameCourse: "SQL desde CERO: Curso Completo para Principiantes", 
+        instructor: "Nodo tecnologico",
+        description: "", 
+        duration: "06:00:00",
+        price: "Gratis", 
+        image: "https://i.ytimg.com/vi/DFg1V-rO6Pg/maxresdefault.jpg", 
+        technologies: [], 
+        rating: null, 
+        students: "",
+        syllabus: [
+            {
+                id: 1,
+                title: "clase 1", 
+                description: "",
+                duration: "02:01:00", 
+                videoUrl: "AG1HXXuI8M0" 
+            },
+            {
+                id: 2,
+                title: "clase 2", 
+                description: "",
+                duration: "02:02:00", 
+                videoUrl: "4YIZjBB91BQ" 
+            },
+            {
+                id: 3,
+                title: "clase 3", 
+                description: "",
+                duration: "02:07:00", 
+                videoUrl: "JHtoOhGGpSQ" 
+            },
+        ]
+    },
+   
+
 ];
